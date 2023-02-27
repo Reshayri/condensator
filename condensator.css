@@ -1,0 +1,34 @@
+
+    .body {
+
+      width: 610px;
+      background: #45DB9C;
+      padding: 15px;
+      padding-right: 18px;
+      border: solid 1px green;
+      border-radius: 10px;
+      margin: 50px auto;
+      font-family: "Times New Roman";
+      /*Тип шрифта */
+      font-size: 18px;
+      /* Размер шрифта*/
+
+    }
+
+    label {
+      font-size: 18px;
+    }
+
+    .ul {
+      font-size: 18px;
+    }
+
+    hr {
+      border: 0;
+      border-bottom: 1px solid #466EFF;
+    }
+
+    #font {
+      font-size: 18px;
+    }
+  
